@@ -13,7 +13,7 @@ For this task, you need two tools: Flask and Pickle, both of which run on Python
 
 REQUIREMENTS:
 
-  .scikit-learn
-  .pandas
-  .numpy
-  .flask
+  .scikit-learn ,
+  .pandas      ,
+  .numpy      ,  
+  .flask     ,
